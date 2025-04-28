@@ -11,6 +11,9 @@ pygame.display.set_caption("Pinguim Surfista")
 #Cor do fundo
 cor_fundo = (0, 0, 255) #Azul
 
+#Carrega pinguim na tela
+pinguim = pygame.image.load('penguim.png')
+
 rodando = True
 while rodando:
     for evento in pygame.event.get():
