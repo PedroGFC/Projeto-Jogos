@@ -18,7 +18,7 @@ Um jogo simples desenvolvido com PyGame onde você controla um pinguim que preci
 
 ## 🎯 Mecânicas do Jogo
 
-- Buracos aleatórios: Aparecem em posições diferentes a cada partida
+- Obstáculos aleatórios: Aparecem em posições diferentes a cada partida
 - Sistema de pontuação: Pontos aumentam conforme o tempo de sobrevivência
 - Aumento progressivo de dificuldade: Cada fase tem velocidade e objetivos diferentes
 
