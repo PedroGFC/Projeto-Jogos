@@ -4,7 +4,7 @@ Um jogo simples desenvolvido com PyGame onde você controla um pinguim que preci
 
 ## 🎮 Como Jogar
 
-- Use as **teclas de seta** (← → ↑ ↓) para mover o pinguim
+- Use as **teclas de seta** (↑ ↓) para mover o pinguim
 - Desvie dos obstáculos/buracos que aparecem no caminho
 - Complete cada fase para avançar para ambientes mais desafiadores
 
