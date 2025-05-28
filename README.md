@@ -10,11 +10,11 @@ Um jogo simples desenvolvido com PyGame onde você controla um pinguim que preci
 
 ## 🌌 Fases do Jogo
 
-| Fase | Ambiente | Velocidade | Pontos para passar | Dificuldade |
-|------|----------|------------|---------------------|-------------|
-| 1    | Gelo     | 5          | 150 pontos          | Fácil       |
-| 2    | Água     | 10         | 300 pontos          | Médio       |
-| 3    | Espaço   | 15         | 500 pontos          | Difícil     |
+| Fase | Ambiente | Velocidade | Pontos para passar | Quantidade de Inimigos | Dificuldade |
+|------|----------|------------|--------------------|------------------------|-------------|
+| 1    | Neve     | 10         | 150 pontos         | Baixa                  | Fácil       |
+| 2    | Oceano   | 12         | 300 pontos         | Média                  | Médio       |
+| 3    | Vulcão   | 14         |                    | Alta                   | Difícil     |
 
 ## 🎯 Mecânicas do Jogo
 
